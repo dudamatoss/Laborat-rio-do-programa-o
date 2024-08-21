@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "banco-TDE/1.0.0": {
+        "runtime": {
+          "banco-TDE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "banco-TDE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

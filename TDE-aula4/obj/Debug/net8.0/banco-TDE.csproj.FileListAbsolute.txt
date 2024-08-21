@@ -1,0 +1,15 @@
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\bin\Debug\net8.0\banco-TDE.exe
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\bin\Debug\net8.0\banco-TDE.deps.json
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\bin\Debug\net8.0\banco-TDE.runtimeconfig.json
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\bin\Debug\net8.0\banco-TDE.dll
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\bin\Debug\net8.0\banco-TDE.pdb
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.AssemblyInfoInputs.cache
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.AssemblyInfo.cs
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.csproj.CoreCompileInputs.cache
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.sourcelink.json
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.dll
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\refint\banco-TDE.dll
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.pdb
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\banco-TDE.genruntimeconfig.cache
+C:\Users\dudas\OneDrive\Desktop\LABORATORIO DE PROGRAMAÇÃO\banco-TDE\obj\Debug\net8.0\ref\banco-TDE.dll
